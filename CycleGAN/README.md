@@ -22,4 +22,6 @@ I also tried some style transfer (I don't care how pathetic looks this grid made
 
 ![cycleGAN_anime2photo](https://user-images.githubusercontent.com/44481414/130331167-ba047433-3cb1-45e2-8464-c316ad5f6699.png)
 
+![cycle](https://user-images.githubusercontent.com/44481414/130452567-3e876187-d462-45b3-aa94-0af08809de66.png)
+
 Looks like it does nothing in photo2anime. As I noticed it blures image (as it must be because we don't care about small details in anime) and adds a sun. I'm sure better architectures for this mapping exist.
